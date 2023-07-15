@@ -1,0 +1,64 @@
+.total_content{
+    display:flex;
+    justify-content:center;
+    align-items:left;
+    flex-wrap:wrap;
+    margin:4% 6%
+}
+.detailimg{
+    padding:0 2.5rem;
+    margin: 0 2%;
+    
+}
+.detailimg img{
+    border-radius: 5px;
+}
+.detaildescription{
+    margin-top: 1rem; margin-bottom: 1rem;
+    max-width: 35em;
+    margin-right:20%;
+}
+.star{
+    
+    width: 24px;
+    height: 16px;
+}
+.detailtitle{
+    font-size:37px;
+    font-weight:bold;
+    color:rgb(72, 68, 68);
+    margin-bottom: 0.6em;
+}
+.detailoverview{
+    font-size:1.1rem;
+    line-height: 1.6;
+    color:#454545;
+    margin-bottom: 0.6em;
+}
+.generes_button button{
+    padding:10px 8px;
+    border:1.5px solid rgb(219, 216, 216);
+    background:none;
+    margin:9px;
+    color:#454545;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.reviews{
+padding: 15px 10px;
+font-size: large;
+}
+.dot:before {
+    content: "\2022";
+}
+.otherdetails li{
+  list-style: none;
+  font-size: 19px;
+  font-weight: 600;
+  padding-bottom: 2%;
+  padding-left: 1%;
+}
+.otherdetails li span{
+    font-size: 19px;
+  font-weight: 400;
+}

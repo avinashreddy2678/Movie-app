@@ -1,0 +1,14 @@
+.eachcard{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   margin: 0 8%;
+}
+.my{
+    margin: 0 10%;
+    font-size: xx-large;
+}
+.wishlisttitle{
+    display: flex;
+    justify-content: center;
+}
